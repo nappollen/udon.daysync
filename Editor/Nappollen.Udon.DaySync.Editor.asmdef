@@ -1,0 +1,20 @@
+{
+    "name": "Nappollen.Udon.DaySync.Editor",
+    "rootNamespace": "Nappollen.Udon.DaySync",
+    "references": [
+        "Nappollen.Udon.DaySync.Runtime",
+        "UdonSharp.Runtime"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
+
