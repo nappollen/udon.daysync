@@ -1,6 +1,6 @@
 # Nappollen Udon Day Sync
 
-nappollen.udon.day-sync v1.1.0
+nappollen.udon.day-sync
 
 ## Description
 
@@ -13,6 +13,7 @@ A realistic day/night cycle system for VRChat using UdonSharp. This package calc
 - 🕐 **Time synchronization** - Based on local time or VRChat network time (UTC)
 - 🔄 **Smooth interpolation** - Smooth sun movement with configurable speed
 - 🌙 **True night** - Sun goes below the horizon for realistic darkness
+- ✨ **Procedural Stars** - Stars appear at night with configurable density and brightness
 
 ## Installation
 
@@ -20,14 +21,14 @@ A realistic day/night cycle system for VRChat using UdonSharp. This package calc
 
 1. Open the Package Manager window
 2. Click the "+" button and select "Add package from git URL..."
-3. Enter: `https://github.com/nappollen/sync.git`
+3. Enter: `https://github.com/nappollen/udon.daysync.git`
 
 ### Via manifest.json
 
 Add the following line to your `Packages/manifest.json`:
 
 ```json
-"nappollen.udon.day-sync": "https://github.com/nappollen/sync.git"
+"nappollen.udon.daysync": "https://github.com/nappollen/udon.daysync.git"
 ```
 
 ## Usage

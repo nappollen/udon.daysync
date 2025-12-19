@@ -1,6 +1,6 @@
 {
   "name": "nappollen.udon.daysync",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "displayName": "Nappollen Udon DaySync",
   "description": "A realistic day/night cycle system for VRChat using UdonSharp",
   "unity": "2022.3",
@@ -8,5 +8,9 @@
   "license": "MIT",
   "author": {
     "name": "Nappollen"
+  },
+  "url": "https://github.com/nappollen/udon.daysync",
+  "vpmDependencies": {
+    "com.vrchat.worlds": "^3.8.x"
   }
 }
